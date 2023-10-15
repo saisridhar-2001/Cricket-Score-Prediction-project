@@ -5,9 +5,11 @@ For Predicting the Score I Have Used a Random Forest Regressor Algorithm  Even T
 error is 11% which Denotes that the model Being Implemented has an Accuracy of 89%
 # Essential Modules Required For the Project
 Numpy, Pandas, pickle, and Sklearn are the essential Libraries Which are Used in this Project.
+Streamlight is Another Library Used for implementing UI for the Project.
 # Environments Used to Execute the Project
 * Jupyter Notebook along with Anaconda for Taking and Extracting the Information from the
   The data set then Choosing Model for the prediction.
+* Vscode to collect the Information and Execution along with Steamlit Framework.
 # Important Note
 * All the Extensions and Environments Which are utilised must be of the same version (Python 3.11.5 )
   
